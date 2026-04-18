@@ -1,3 +1,5 @@
+<img width="800" height="422" alt="sphere_bloch" src="https://github.com/user-attachments/assets/9eca4934-66ae-48b6-a97f-21dad36c9e51" />
+
 # Suíte de Simulações Quânticas em Python
 
 Bem-vindo ao meu portfólio de simulações quânticas! Este repositório contém uma coleção de scripts interativos e educacionais desenvolvidos para explorar os fundamentos da mecânica quântica e da computação quântica.
